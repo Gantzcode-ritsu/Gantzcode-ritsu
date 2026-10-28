@@ -1,4 +1,8 @@
-## Hi there 👋
+# HAI 👋
+
+## Perkenalan
+Namaku Yuganta dan aku adalah orang tertampan sedunia...
+<!-- ANJAS! -->
 
 <!--
 **Gantzcode-ritsu/Gantzcode-ritsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
